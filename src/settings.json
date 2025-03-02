@@ -1,6 +1,6 @@
 {
-  "name": "Rynn Api's",
-  "version": "Rynn UI",
+  "name": "api dream stalker",
+  "version": "1.3",
   "description": "Simple and Easy-to-Use API Documentation",
   "header": {
     "status": "Online!",
@@ -14,16 +14,16 @@
     }
   },
   "apiSettings": {
-    "creator": "Rynn"
+    "creator": "shafe"
   },
   "links": [
     {
       "name": "Source Code",
-      "url": "https://github.com/rynxzyy/Rynn-UI"
+      "url": "https://dreamstalker.shafe.store"
     },
     {
       "name": "Contact Me",
-      "url": "https://wa.me/6285173370004"
+      "url": "https://wa.me/6285789202053"
     }
   ],
   "categories": [
